@@ -10,66 +10,67 @@ It helps HR teams make data-driven decisions to improve retention, hiring effici
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-⚙️ Features
+  Features
 
-📈 Dynamic KPI cards for workforce, recruitment, and engagement tracking.
+  . Dynamic KPI cards for workforce, recruitment, and engagement tracking.
 
-🧩 Department-wise drill-downs for performance, training, and leave trends.
+  . Department-wise drill-downs for performance, training, and leave trends.
 
-🔍 Interactive slicers for filtering by department, role, gender, or year.
+  . Interactive slicers for filtering by department, role, gender, or year.
 
-📊 Visualization of hiring funnel, training progress, and engagement metrics.
+  . Visualization of hiring funnel, training progress, and engagement metrics.
 
-🧮 DAX-based insights like retention %, time-to-hire, and satisfaction scores.
+  . DAX-based insights like retention %, time-to-hire, and satisfaction scores.
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
- 💡 Key Insights
+   Key Insights
  
-🧍‍♂️ Employee Overview
 
-84.8% retention rate shows a stable workforce.
+  Employee Overview
 
-Department-wise gender and experience insights reveal diversity gaps.
+. 84.8% retention rate shows a stable workforce.
 
-
-🧾 Performance Reviews
-
-Average rating: 4.2 / 5 with 82% goals met.
-
-Leadership and problem-solving identified as areas for improvement.
+. Department-wise gender and experience insights reveal diversity gaps.
 
 
-🧑‍💼 Recruitment Analysis
+ Performance Reviews
 
-Selection rate: 10.8% — efficient hiring process.
+. Average rating: 4.2 / 5 with 82% goals met.
 
-Referrals (38%) are the most effective recruitment source.
-
-Engineering roles (42 days) take the longest to hire — skill shortage evident.
-
-Average cost per hire: ₹13,500 — optimization scope through referrals.
+. Leadership and problem-solving identified as areas for improvement.
 
 
-🎯 Training Records
+ Recruitment Analysis
 
-84% completion rate with an average of 12.5 hrs per employee.
+. Selection rate: 10.8% — efficient hiring process.
 
-Post-training performance improved by +0.4 rating points.
+. Referrals (38%) are the most effective recruitment source.
 
+. Engineering roles (42 days) take the longest to hire — skill shortage evident.
 
-🏖️ Leave Records
-
-Employees take an average of 11.2 leave days/year.
-
-Sick leaves (42%) highlight potential health and wellness issues.
+. Average cost per hire: ₹13,500 — optimization scope through referrals.
 
 
-❤️ Employee Engagement
+ Training Records
 
-Engagement Index: 4.1 / 5 indicates strong overall morale.
+. 84% completion rate with an average of 12.5 hrs per employee.
 
-18% low engagement shows room for motivation and support programs.
+. Post-training performance improved by +0.4 rating points.
 
-Strong correlation between manager relationship and retention intent.
+
+ Leave Records
+
+. Employees take an average of 11.2 leave days/year.
+
+. Sick leaves (42%) highlight potential health and wellness issues.
+
+
+ Employee Engagement
+
+. Engagement Index: 4.1 / 5 indicates strong overall morale.
+
+. 18% low engagement shows room for motivation and support programs.
+
+. Strong correlation between manager relationship and retention intent.
