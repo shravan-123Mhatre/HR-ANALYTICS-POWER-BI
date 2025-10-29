@@ -70,7 +70,5 @@ ________________________________________________________________________________
  Employee Engagement
 
 . Engagement Index: 4.1 / 5 indicates strong overall morale.
-
 . 18% low engagement shows room for motivation and support programs.
-
 . Strong correlation between manager relationship and retention intent.
