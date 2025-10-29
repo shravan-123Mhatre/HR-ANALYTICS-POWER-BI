@@ -1,11 +1,15 @@
 # HR-ANALYTICS-REPORTS-POWER-BI
  A comprehensive dashboard analyzing key HR metrics such as employee demographics, performance, training, leave, recruitment, and engagement. It delivers data-driven insights on hiring efficiency, retention, and workforce productivity. Designed using multiple datasets with interactive visuals and DAX-based KPIs for strategic decision-making.
 
+ 
+
 Project Overview
 
 This Power BI project provides a comprehensive HR Analytics Dashboard designed to evaluate and optimize workforce performance.
 By integrating multiple HR datasets — including Employee Master, Performance Reviews, Salary History, Training Records, Leave Records, Recruitment Data, and Employee Engagement Surveys — the dashboard delivers actionable insights on recruitment efficiency, employee retention, productivity, and engagement.
 The goal is to support data-driven HR decision-making and improve overall organizational health.
+
+
 
  Key Features
 
@@ -21,43 +25,47 @@ The goal is to support data-driven HR decision-making and improve overall organi
 
  User-Friendly Interface: Intuitive visuals for management review and HR presentations.
 
+ 
+
  Key Insights
- Employee Overview
+🧍‍♂️ Employee Overview
 
-84.8% retention rate indicates workforce stability.
+84.8% retention rate shows a stable workforce.
 
-Gender and experience analysis highlights diversity and talent gaps across departments.
+Department-wise gender and experience insights reveal diversity gaps.
 
- Performance Reviews
+🧾 Performance Reviews
 
-Avg rating: 4.2 / 5, with 82% goals achieved.
+Average rating: 4.2 / 5 with 82% goals met.
 
-Leadership and problem-solving need targeted improvement.
+Leadership and problem-solving identified as areas for improvement.
 
- Recruitment Analysis
+🧑‍💼 Recruitment Analysis
 
-Selection rate: 10.8% — competitive yet efficient hiring.
+Selection rate: 10.8% — efficient hiring process.
 
-Referrals (38%) are the most effective and cost-efficient source.
+Referrals (38%) are the most effective recruitment source.
 
-Engineering roles (42 days) take longest to fill; talent scarcity noted.
+Engineering roles (42 days) take the longest to hire — skill shortage evident.
 
-Avg cost per hire: ₹13,500 — optimization potential.
+Average cost per hire: ₹13,500 — optimization scope through referrals.
 
- Training Records
+🎯 Training Records
 
-84% completion rate, avg 12.5 hrs per employee.
+84% completion rate with an average of 12.5 hrs per employee.
 
-+0.4 performance boost post-training validates effectiveness.
+Post-training performance improved by +0.4 rating points.
 
- Leave Records
+🏖️ Leave Records
 
-Avg 11.2 leaves/employee annually, showing healthy balance.
+Employees take an average of 11.2 leave days/year.
 
-Sick leaves (42%) highlight focus area for wellness programs.
+Sick leaves (42%) highlight potential health and wellness issues.
 
- Employee Engagement
+❤️ Employee Engagement
 
-Engagement Index: 4.1 / 5, with 18% low engagement.
+Engagement Index: 4.1 / 5 indicates strong overall morale.
 
-Strong link between manager relationship and retention intent.
+18% low engagement shows room for motivation and support programs.
+
+Strong correlation between manager relationship and retention intent.
