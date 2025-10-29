@@ -26,49 +26,23 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
    Key Insights
- 
 
-  Employee Overview
+. Retention Rate: 84.8% — stable workforce.
 
-. 84.8% retention rate shows a stable workforce.
+. Performance: Avg rating 4.2 / 5; leadership & problem-solving need focus.
 
-. Department-wise gender and experience insights reveal diversity gaps.
+. Recruitment: Referrals (38%) most effective; Engineering roles slowest to fill (42 days).
 
+. Training: 84% completion; +0.4 post-training performance improvement.
 
- Performance Reviews
+. Leave: Avg 11.2 days/year; 42% are sick leaves — wellness concern.
 
-. Average rating: 4.2 / 5 with 82% goals met.
+. Engagement: Avg Index 4.1; 18% low engagement; strong link between manager support & stay intent.
 
-. Leadership and problem-solving identified as areas for improvement.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+🗂️ File Structure
 
- Recruitment Analysis
+HR_Analytics_Dashboard.pbix
 
-. Selection rate: 10.8% — efficient hiring process.
-
-. Referrals (38%) are the most effective recruitment source.
-
-. Engineering roles (42 days) take the longest to hire — skill shortage evident.
-
-. Average cost per hire: ₹13,500 — optimization scope through referrals.
-
-
- Training Records
-
-. 84% completion rate with an average of 12.5 hrs per employee.
-
-. Post-training performance improved by +0.4 rating points.
-
-
- Leave Records
-
-. Employees take an average of 11.2 leave days/year.
-
-. Sick leaves (42%) highlight potential health and wellness issues.
-
-
- Employee Engagement
-
-. Engagement Index: 4.1 / 5 indicates strong overall morale.
-. 18% low engagement shows room for motivation and support programs.
-. Strong correlation between manager relationship and retention intent.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
