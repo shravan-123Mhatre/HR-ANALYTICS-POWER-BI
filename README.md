@@ -14,9 +14,13 @@ It helps HR teams make data-driven decisions to improve retention, hiring effici
 ⚙️ Features
 
 📈 Dynamic KPI cards for workforce, recruitment, and engagement tracking.
+
 🧩 Department-wise drill-downs for performance, training, and leave trends.
+
 🔍 Interactive slicers for filtering by department, role, gender, or year.
+
 📊 Visualization of hiring funnel, training progress, and engagement metrics.
+
 🧮 DAX-based insights like retention %, time-to-hire, and satisfaction scores.
 
 
